@@ -1,5 +1,6 @@
 body{
    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(mgz.jpg);
+   background repeat: no repeat;
    background-size:auto;
    background-position: center;
    text-align:justify;
@@ -140,4 +141,5 @@ footer{
 }
 #check{
     display: none;
+
 }
